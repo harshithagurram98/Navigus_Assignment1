@@ -7,4 +7,8 @@ I tried very hard to deploy it on heroku or azure services but failed to get who
 
 https://sqlval3qgnst4db3ou.z13.web.core.windows.net/ here is the link for the login page azure deployment alone.
 
-Please download files and run sample.js and you can clearly see the code flow with interactions.
+Please download files and run sample.js and you can clearly see the code flow with interactions
+
+Please see screenshots if you choose to omit to run code. 
+
+Thank You. 
